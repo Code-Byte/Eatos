@@ -1,1 +1,3 @@
-# Food_Calorie_Estimator
+# Eatos -
+## The Food Calorie Estimator app
+
